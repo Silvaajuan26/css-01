@@ -80,3 +80,6 @@ h1{
 
 <!---IMPORTANT (INFINITE) -->
 ```
+
+## ESTILOS DE TEXTOS
+

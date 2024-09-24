@@ -1,14 +1,56 @@
-h1{
-    color: red;
+html{
+    font-size: 20px;
 }
 
-p {
-    color :peru;
-}
-a {
-color: inherit;
+body{
+    font-size: 20px;
 }
 
-.padre #hijo {
-    color: blue;
+
+@font-face{
+    font-family: Edu;
+    src: url(./fonts/EduAUVICWANTGuides-VariableFont_wght.ttf);
 }
+
+h1 {
+    color: rgb(2, 98, 111);
+    text-transform: uppercase;
+
+}
+
+.selectClass{
+    color: rgb(3, 190, 215);
+    text-transform: lowercase;
+    text-align:right;
+}
+
+#selectID{
+    color:rgb(0, 243, 239);
+    letter-spacing: 10px;
+    word-spacing: 5px; 
+}
+
+header{
+    
+    .centerclass{
+        text-align: center;
+        font-style: italic;
+        text-decoration: underline;
+        
+    }
+}
+
+a{
+    text-decoration: none;
+    font-size: 2rem;
+}
+
+.fontsnew{
+font-family: Edu;
+text-align: center;
+font-weight:600;
+}
+
+* {
+    color: rgb(45, 0, 141);
+  }
