@@ -1,0 +1,14 @@
+h1{
+    color: red;
+}
+
+p {
+    color :peru;
+}
+a {
+color: inherit;
+}
+
+.padre #hijo {
+    color: blue;
+}
